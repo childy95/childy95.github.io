@@ -1,0 +1,90 @@
+.div1{
+	border: 1px solid red;
+	background-color:yellow;
+	text-align: center
+}
+
+.first{
+	padding-top: 100px;
+	background-color:black;
+}
+p{
+	color:white;
+	text-align: center;
+}
+
+*{
+	margin:0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.second{
+	background-color: black;
+}
+.container{
+	width=1000px;
+	margin: 0px auto;
+}
+.head2{
+	padding-left:150px;
+}
+.header2{
+	
+	border: 30px 10px 30px 10px
+	
+}
+.empty{
+	clear: both;
+}
+.logo2{
+	float: left;
+	padding-right:450px;
+}
+.nav2 .ul2, .li2{
+	border: 1px solid black;
+	float:left;
+	padding-top:70px;
+}
+.table2{
+	border: 1px solid white;
+	
+}
+.section2{
+	margin-left:250px;
+	margin-top:30px
+}
+.th2{
+	padding-bottom:30px;
+	padding-top:30px;
+	padding-left:100px;
+	padding-right:100px;
+}
+th{
+	padding-bottom:30px;
+	padding-top:30px;
+	padding-left:300px;
+	padding-right:300px;
+	color: white;
+	
+}
+
+
+.third{
+	padding-top: 100px;
+	background-color:black;
+}
+.div3{
+	border: 1px solid red;
+	background-color:gray;
+	text-align: center
+}
+.made ul{
+	padding-left: 30px;
+	color: red;
+}
+.made li{
+	color:white;
+	padding: 10px 30px;
+}
+

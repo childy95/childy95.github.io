@@ -1,0 +1,16 @@
+h1{
+	text-align:center;
+	color: green;
+}
+p{
+	text-align:center;
+	font-weight: normal;
+}
+div{
+	border: 1px solid red;
+	background-color:yellow;
+}
+body{
+	padding-top:150px;
+	background-color:black;
+}

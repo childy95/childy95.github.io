@@ -1,0 +1,30 @@
+fieldset{
+	color:white;
+	width:500px;
+}
+body{
+	padding: 0px 400px ;
+	background-color: black;
+}
+.form label{
+	color: white;
+	float :left;
+	width:100px
+}
+
+
+.fav label{
+	color: white;
+	float:left;
+	width:50px;
+}
+
+
+legend{
+	color:white;
+	font-weight:bold;
+	
+}
+footer{
+	padding: 30px 170px;
+}
